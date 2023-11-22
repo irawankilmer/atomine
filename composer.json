@@ -1,0 +1,19 @@
+{
+    "name": "irawan/atomine",
+    "description": "My very small framework for learning",
+    "type": "project",
+    "license": "GPU",
+    "autoload": {
+        "psr-4": {
+            "Irawan\\Atomine\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Irawan",
+            "email": "irawankillmer@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
