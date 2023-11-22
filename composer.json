@@ -2,7 +2,7 @@
     "name": "irawan/atomine",
     "description": "My very small framework for learning",
     "type": "project",
-    "license": "GPU",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Irawan\\Atomine\\": "core/"
