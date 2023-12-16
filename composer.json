@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Irawan\\Atomine\\": "core/"
+            "Atomine\\": ""
         }
     },
     "authors": [
