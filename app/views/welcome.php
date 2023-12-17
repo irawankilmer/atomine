@@ -5,12 +5,13 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Welcome</title>
+    <title>Welcome to Atomine</title>
 </head>
 <body>
 <center>
     <h1>Selamat Datang!</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus aliquam architecto, atque eius fugiat fugit, hic illo inventore magni officia pariatur quae quibusdam ut. Accusamus aliquid aperiam neque pariatur quaerat.</p>
+    <p>Ini adalah mini framework untuk pembelajaran siswa SMK JURUSAN RPL</p>
+    <P>lihat contoh lainnya <a href="https://github.com/irawankilmer" target="_blank">disini!</a></P>
 </center>
 </body>
 </html>

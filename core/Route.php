@@ -44,4 +44,9 @@ class Route
         http_response_code(404);
         return 'Not Found';
     }
+
+    public static function middleware(array $middleware = [], callable $action)
+    {
+        print_r("Hello World!");
+    }
 }
